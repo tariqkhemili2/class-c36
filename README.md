@@ -1,1 +1,2 @@
-# fictional-rotary-phone
+# synchronousBallMovement
+Ball moving synchronously
